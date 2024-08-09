@@ -6,7 +6,7 @@ Learing and Implementing..
 
 =
 - 🌱 I’m currently learning JS.
-- 👯 I’m looking collaborate on github.
+- 👯 I’m looking to collaborate on github.
 - 🤔 I’m looking for help with Data Structure and Alogorithms.
 - 💬 Ask me about Java and React
 - 📫 How to reach me: evanedeepraj@gmail.com
